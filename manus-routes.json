@@ -1,0 +1,9 @@
+{
+  "routes": [
+    {"path": "/", "title": "مسافر البيضاء — الرئيسية"},
+    {"path": "/services.html", "title": "خدماتنا — مسافر البيضاء"},
+    {"path": "/destinations.html", "title": "الوجهات — مسافر البيضاء"},
+    {"path": "/booking.html", "title": "طريقة الحجز — مسافر البيضاء"},
+    {"path": "/contact.html", "title": "اتصل بنا — مسافر البيضاء"}
+  ]
+}
